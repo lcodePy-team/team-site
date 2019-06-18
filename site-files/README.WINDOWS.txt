@@ -7,3 +7,6 @@ For serial running:
 For parallel running:
     put lcode.exe in working directory with your lcode.cfg
     and run 'mpiexec -n <cpu-number> lcode.exe' in command line 
+
+
+If you have any problem with it, feel free to contact us. 
