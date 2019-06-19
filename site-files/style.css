@@ -23,7 +23,7 @@ a:hover {
 	text-decoration: none;
 }
 
-hr { 
+hr {
     display: block;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
@@ -114,7 +114,7 @@ ul h4 {
     /*border: 1px solid #333;*/ /* Параметры рамки */
     padding: 7px; /* Поля внутри блока */
     margin: 20px 0 5px 20px; /* Отступы вокруг */
-    background: #FFF; /* Цвет фона */ 
+    background: #FFF; /* Цвет фона */
 }
 .sign figcaption {
     margin: 0 auto 5px; /* Отступы вокруг абзаца */
@@ -124,7 +124,7 @@ ul h4 {
 	float: left;
 	padding: 7px;
     margin: 0px 20px 5px 10px; /* Отступы вокруг */
-    background: #FFF; /* Цвет фона */ 	
+    background: #FFF; /* Цвет фона */
 }
 .photo figcaption {
 	margin-left: 0 auto 5px;
@@ -134,7 +134,7 @@ ul h4 {
 	border: solid 5px white;
 	box-shadow: 0px 0px 0px 1px #D4D5D5, 0px 0px 10px 0px rgba(0,0,0,0.1);
 }
-/* 
+/*
 .col1 {
 
 	float: left;
@@ -145,10 +145,10 @@ ul h4 {
 
 	margin: 0 0 0 250px;
 	width: 240px;
-} 
+}
 
 .col3 {
-	
+
 	margin: -264px 0 0 500px;
 	width: 240px;
 }
@@ -180,7 +180,7 @@ ul h4 {
 	width: 910px;
 	height: 10px;
 }
-/* 
+/*
 #logo {
 	right: 35px;
 	height: 120px;
@@ -200,7 +200,7 @@ ul h4 {
  */
 
 /* Getting images to align correctly on Physics.html */
- 
+
 #images{
     float:right;
 }
@@ -209,7 +209,7 @@ ul h4 {
 }
 
 /* End Physics.html classes */
- 
+
 #menu {
 	background-position: 0% 0%;
 	left: 0px;
@@ -238,7 +238,7 @@ ul h4 {
 
 #menu ul {
 	display: table;
-	margin: auto auto;	
+	margin: auto auto;
 	list-style: none;
 	padding: 0 25px 0 25px;
 }
@@ -301,7 +301,7 @@ ul h4 {
 	padding-top: 0;
 }
 */
-/* 
+/*
 #page-bottom {
 	width: 975px;
 	margin: 35px 0 0 0;
@@ -378,7 +378,7 @@ ul h4 {
 /* #templatemo_background_section_top {
 
 	width: 100%;
-	
+
 	height:333px;
 
 	background: url(images/templatemo_top_section_bg.jpg) repeat-x;
@@ -388,11 +388,11 @@ ul h4 {
 /* #templatemo_background_section_middle {
 
 	width: 100%;
-	
+
 	background: #e3e3e3;
-	
+
 	clear: both;
-	
+
 	overflow:hidden;
 
 } */
@@ -400,11 +400,11 @@ ul h4 {
 /* #templatemo_background_section_bottom {
 
 	width: 100%;
-	
+
 	height: 327px;
 
 	background: url(images/templatemo_background_section_bottom_bg2.jpg) repeat;
-	
+
 	float: left;
 
 } */
@@ -416,20 +416,20 @@ ul h4 {
 	margin: auto;
 
 } */
-/* 
+/*
 #templatemo_header {
 
 	width: 1000px;
-	height:280px;	
+	height:280px;
 	background: url(images/templatemo_header.jpg) no-repeat;
 
 }
  */
 /* Menu Section */
-/* 
+/*
 #templatemo_menu_panel {
 	width:100%;
-	height: 53px;	
+	height: 53px;
 	margin: 0 auto;
 	background: url(images/templatemo_menu_bg.jpg) repeat-x;
 	float:left;
@@ -437,7 +437,7 @@ ul h4 {
 
 #templatemo_menu_panel #templatemo_menu_section {
 	width: 930px;
-	height: 50px;	
+	height: 50px;
 	margin:0 auto;
 	padding: 0 0 0 30px;
 	color: #03a0a6;
@@ -478,11 +478,11 @@ ul h4 {
 /* Left Section */
 
 #templatemo_left_section {
-	
+
 	width: 600px;
 	float: left;
 	margin: 0px 0px 10px auto;
-	
+
 }
 
 * html #templatemo_left_section {
@@ -491,26 +491,26 @@ ul h4 {
 }
 
 .templatemo_post {
-	
+
 	width: 600px;
 	margin-bottom: 15px;
-	
+
 }
 
 /* Post */
 
 .templatemo_post_mid {
-	
+
 	width: 598px ;
 	background: #fff url(images/templatemo_post_middle.jpg) no-repeat top center;
 	border-left: 1px solid #ccc;
 	border-right: 1px solid #ccc;
 	padding-top: 10px;
-	
+
 }
 
 .templatemo_post_bottom {
-	
+
 	width: 598px;
 	height: 34px;
 	background: url(images/templatemo_post_bottom.jpg) no-repeat bottom center;
@@ -521,7 +521,7 @@ ul h4 {
 }
 
 .templatemo_post_mid img {
-	
+
 	border: #ccc solid 1px;
 	float: left;
 	margin: 3px 15px 0 0;
@@ -529,7 +529,7 @@ ul h4 {
 }
 
 .templatemo_post_mid p {
-	
+
 	font-size: 14px;
 	color: #000;
 	margin : 0px 25px 25px 25px;
@@ -566,11 +566,11 @@ span.post{
 /* End Of Left Section */
 /* Right Section */
 #templatemo_right_section {
-	
+
 	width: 330px;
 	float: right;
 	margin: 0px 20px 10px 0px;
-	
+
 }
 
 *html #templatemo_right_section {
@@ -579,14 +579,14 @@ span.post{
 }
 
 .templatemo_section_box {
-	
+
 	width: 310px;
 	margin-bottom: 15px;
 
 }
 
 .templatemo_section_box_top {
-	
+
 	width: 285px;
 	height: 35px;
 	background: url(images/templatemo_section_top.jpg) no-repeat;
@@ -598,18 +598,18 @@ span.post{
 
 
 .templatemo_section_box_mid {
-	
+
 	width: 348px;
 	background: url(images/templatemo_section_middle.jpg) #FFF no-repeat top center;
 	border-left: 1px #ccc solid;
-	border-right: 1px #ccc solid;	
+	border-right: 1px #ccc solid;
 	padding-top: 25px;
 
 }
 
 
 .templatemo_section_box_mid p {
-	
+
 	font-size: 13px;
 	color:#000;
 	margin : 0px 25px 15px 25px;
@@ -618,14 +618,14 @@ span.post{
 }
 
 .templatemo_section_box_mid p a {
-	
+
 	font-size: 13px;
 	color:#333;
 
 }
 
 .templatemo_section_box_mid p a:hover {
-	
+
 	font-size: 13px;
 	color:#999;
 
@@ -641,7 +641,7 @@ span.post{
 }
 
 .templatemo_section_box_mid ul {
-	
+
 	margin-bottom:15px;
 	margin-top:0px;
 	padding-left:15px;
@@ -649,7 +649,7 @@ span.post{
 }
 
 .templatemo_section_box_bottom {
-	
+
 	width: 348px;
 	height: 31px;
 	background: url(images/templatemo_section_bottom.jpg) no-repeat bottom center #fff;
@@ -660,10 +660,18 @@ span.post{
 	border-radius: 0 0 5px 5px;
 }
 
+.templatemo_section_box_bottom a:link{
+	color:#999;
+}
+
+.templatemo_section_box_bottom a:visited{
+	color:#999;
+}
+
 /* Blue Section */
 
 .templatemo_section_box_top_blue {
-	
+
 	background-position: 0% 0%;
 	width: 323px;
 	height: 35px;
@@ -700,24 +708,24 @@ span.post{
 
     padding: 0 0 0 30px;
 }
- 
+
 #linkslists ul li{
 
 	padding: 0 0 0 0;
 	border-top: none;
 	list-style: disc;
 }
- 
+
 #linkslists ul li a{
 
 	color: blue;
 }
- 
+
 #contactlists dl dt{
 
 	font-weight:bold;
 }
- 
+
 #contactlists dl dd a{
 
 	color: blue;
@@ -737,7 +745,7 @@ span.post{
 
 	text-decoration: underline;
 }
-	
+
 #articleslists dl dd{
 
 	padding-left: 10px;
