@@ -567,9 +567,9 @@ span.post{
 /* Right Section */
 #templatemo_right_section {
 
-	width: 330px;
+	width: 345px;
 	float: right;
-	margin: 0px 20px 10px 0px;
+	margin: 0px 5px 10px 0px;
 
 }
 
@@ -603,7 +603,7 @@ span.post{
 	background: url(images/templatemo_section_middle.jpg) #FFF no-repeat top center;
 	border-left: 1px #ccc solid;
 	border-right: 1px #ccc solid;
-	padding-top: 25px;
+	padding-top: 5px;
 
 }
 
@@ -653,7 +653,7 @@ span.post{
 	width: 348px;
 	height: 31px;
 	background: url(images/templatemo_section_bottom.jpg) no-repeat bottom center #fff;
-	margin-top: -15px;
+	margin-top: -28px;
 	border-left: 1px #ccc solid;
 	border-right: 1px #ccc solid;
 	border-bottom: 1px #ccc solid;
@@ -678,7 +678,7 @@ span.post{
 	background-position: 0% 0%;
 	width: 323px;
 	height: 35px;
-	padding: 15px 0px 0 25px;
+	padding: 15px 0px 0px 25px;
 	font-size: 1.22em;
 	letter-spacing: 0px;
 	text-decoration: none;
