@@ -1,2 +1,3 @@
 #Jupyterhub temp files
 .ipynb_checkpoints/
+.git/
